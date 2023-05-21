@@ -1,0 +1,26 @@
+Assesement 8: HuffmanCode Reflection
+
+1) What did you learn from working on this 
+assignment?
+using binary heap
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+a strange problem like so many 0 and 1 generated
+just for one case
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+compressing a file using less space
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+no
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+10 hours

@@ -1,0 +1,27 @@
+Assesement 4: EvilHangman Reflection
+
+1) What did you learn from working on this 
+assignment?
+Character cannot equal to string. 
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+How the word is divided in to many keys and
+values in a map. 
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+Add "" after a character to convert a character
+to a string. 
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+NO
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+8 hours
